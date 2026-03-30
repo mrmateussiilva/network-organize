@@ -1,6 +1,5 @@
-streamlit
-pandas
-openpyxl
-networkx
-matplotlib
-scipy
+streamlit>=1.35
+pandas>=2.0
+openpyxl>=3.1
+networkx>=3.0
+pyvis>=0.3.2
